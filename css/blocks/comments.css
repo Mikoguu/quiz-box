@@ -55,6 +55,10 @@
   font-size: 13px;
 }
 
+.comment__tag-item {
+  background-color: #B9EAE4;
+}
+
 .comment__title {
   font-size: 30px;
   font-weight: 700;
