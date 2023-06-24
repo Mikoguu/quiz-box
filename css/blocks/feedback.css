@@ -97,7 +97,7 @@
   border-radius: 30px;
 }
 
-.tag:hover, .tag:active {
+.controls__tag:hover, .controls__tag:active {
   background-color: #B9EAE4;
   cursor: pointer;
 }
