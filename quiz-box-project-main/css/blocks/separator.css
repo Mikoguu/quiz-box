@@ -1,0 +1,15 @@
+.separator .container {
+  background: #17191C url(../../img/adv_pic.png) 80% no-repeat;
+  height: 363px;
+  display: flex;
+}
+
+.separator__title {
+  height: 130px;
+  width: 383px;
+  align-self: center;
+}
+
+.separator__title-text {
+  font-size: 48px;
+}
