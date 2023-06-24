@@ -89,12 +89,15 @@
 }
 
 .tag {
-  background-color: #E7E7E7;
   height: 37px;
   width: max-content;
   text-align: center;
   padding: 10px 20px;
   border-radius: 30px;
+}
+
+.controls__tag {
+  background-color: #E7E7E7;
 }
 
 .controls__tag:hover, .controls__tag:active {
