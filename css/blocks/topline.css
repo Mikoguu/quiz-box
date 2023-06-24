@@ -39,11 +39,15 @@
 
 .breadcrumbs__item--active .breadcrumbs__link {
   font-weight: bold;
-  transition: 0.5s;
 }
 
 .breadcrumbs__link:hover {
   color: #c9c7c7;
+  transition: .3s;
+}
+
+breadcrumbs__item--active. breadcrumbs__link:hover {
+  color: #9A9A9A;
 }
 
 
